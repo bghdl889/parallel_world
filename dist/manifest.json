@@ -1,0 +1,10 @@
+{
+  "name": "平行世界",
+  "short_name": "平行世界",
+  "description": "邀请朋友记录平行生活的点滴",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF8F3",
+  "theme_color": "#FDF8F3",
+  "icons": []
+}
